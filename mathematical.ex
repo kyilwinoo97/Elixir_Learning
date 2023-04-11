@@ -5,6 +5,4 @@ defmodule Mathematic do
   defp sum(a,b) do    #private function
     a + b
   end
-
-
 end
