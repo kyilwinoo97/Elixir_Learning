@@ -1,5 +1,5 @@
 defmodule MyModule do
-  import IO
+  import IO                 #importing module
   def show(msg) do
     puts msg
   end
