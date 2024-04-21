@@ -9,5 +9,8 @@ defmodule Caluclator do
   def multi(a,b) do
     a * b
   end
+  def div(a,b) do
+    a / b
+  end
 
 end
